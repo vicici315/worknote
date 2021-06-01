@@ -1,6 +1,11 @@
 # 特效材质笔记
 
-## 卡通烟雾材质
+## 水球结界特效材质
 
-文件名：M_MainCartoonSmoke1vic
+文件名：M_Blob
 
+![Honeycam 2021-06-01 11-46-21](Honeycam 2021-06-01 11-46-21.gif)
+
+<img src="Honeycam 2021-06-01 14-07-14.gif" alt="Honeycam 2021-06-01 14-07-14"  />
+
+![image-20210601140847261](image-20210601140847261.png)
