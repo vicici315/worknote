@@ -5,10 +5,9 @@ set timestamp=%d% %t%
  
 set /p comments=please input commit comments:
  
-git status
 git add .
 git commit -m "[%timestamp%] comments: %comments%"
 git push origin main
-echo "Finished Push!"
 git log --stat -1
+echo "Finished Push!"
 pause
