@@ -6,8 +6,6 @@
 
 材质名：M_Blob
 
-![Honeycam 2021-06-01 11-46-21](Honeycam 2021-06-01 11-46-21.gif)
-
 <img src="Honeycam 2021-06-01 11-46-21.gif" alt="HHoneycam 2021-06-01 11-46-21"  />
 <img src="Honeycam 2021-06-01 14-07-14.gif" alt="Honeycam 2021-06-01 14-07-14"  />
 
