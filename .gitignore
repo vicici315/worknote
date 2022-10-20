@@ -1,0 +1,16 @@
+# Visual Studio 2015 user specific files
+.vs/
+*changes
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Binary Files
+Binaries/*
+
+ 
+# Builds
+Share/
+ 
